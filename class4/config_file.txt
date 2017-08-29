@@ -1,0 +1,4 @@
+# random comment
+logging buffered 32768
+# another comment
+no logging console
